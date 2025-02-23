@@ -8,7 +8,7 @@ A simple library management web application built with React and Material UI. Th
 
 ## 🖥️ Live Demo
 
-[Check out the live demo]() 🚀
+[Check out the live demo](https://library-app-xi-livid.vercel.app/) 🚀
 
 ![Screenshot](./public/ss.png)
 ## Technologies Used
