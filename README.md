@@ -6,7 +6,7 @@ A simple library management web application built with React and Material UI. Th
 - **CRUD Operations**: Manage library data through Create, Read, Update, and Delete operations.
 - **Backend Integration**: Communicates with a Java Spring Boot backend API for data persistence.
 
-## 🖥️ Live Demo
+## Live Demo
 
 [Check out the live demo](https://library-app-xi-livid.vercel.app/) 🚀
 
